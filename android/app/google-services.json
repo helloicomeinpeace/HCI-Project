@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "865098733585",
+    "firebase_url": "https://book-buddy-130d0.firebaseio.com",
+    "project_id": "book-buddy-130d0",
+    "storage_bucket": "book-buddy-130d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865098733585:android:56db2eb80f0f786b51f9b0",
+        "android_client_info": {
+          "package_name": "book.buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865098733585-fmf3u35d14iov03t31eupnp8rdis5qg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "book.buddy",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "865098733585-gdm3r8eeg6rlq4s3a9c6trv0dvvjegmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7JFU5kuulsWdRktw5Wup9ccNLs0j5E7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865098733585-gdm3r8eeg6rlq4s3a9c6trv0dvvjegmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
