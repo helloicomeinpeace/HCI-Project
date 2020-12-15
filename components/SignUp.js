@@ -22,7 +22,7 @@ export default class SignUp extends Component {
           .ref('/users/' + auth().currentUser.uid + '/')
           .set({
             email: this.state.email,
-            age: 25,
+            profileSet: false
           })
           .then(() => console.log('Data set.'));
       })
